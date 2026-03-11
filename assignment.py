@@ -11,3 +11,7 @@ City="Kisumu"
 print(Name+Age+City)
 
 # Question 6
+
+
+
+#Question 7
