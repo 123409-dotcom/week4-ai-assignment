@@ -5,10 +5,12 @@ print("Hello AI Students")
 
 # Question 5
 Create the following variables in python:
-Name="joseph"
-Age="21"
-City="Kisumu"
-print(Name+Age+City)
+Name ="joseph"
+Age = 21
+City = "Kisumu"
+print("Name")
+print("Age")
+print("City")
 
 # Question 6
 create a list of five programming language
@@ -24,7 +26,7 @@ create a dictionary with the following student information
 Name
 Age
 Course
-Student={
+Student = {
   "name":"Joseph",
   "age":17,
   "course":"Radiography"
