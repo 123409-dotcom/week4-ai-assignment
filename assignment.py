@@ -3,9 +3,9 @@ print("Hello AI Students")
 
 # Question 5
 #Create the following variables in python:
-Name = "joseph"
-Age = 21
-City = "Kisumu"
+Name = "joseph",
+Age = 21,
+City = "Kisumu",
 print("Name")
 print("Age")
 print("City")
