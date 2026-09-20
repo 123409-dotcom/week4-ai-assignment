@@ -22,7 +22,7 @@ create a dictionary with the following student information
 Name
 Age
 Course
-Student = {
+student = {
   "Name":"Joseph",
   "Age":17,
   "Course":"Radiography"
