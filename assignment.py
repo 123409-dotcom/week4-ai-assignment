@@ -14,11 +14,7 @@ print("City")
 
 # Question 6
 create a list of five programming language
-python
-javacsript
-java
-C++
-C#
+programming_languages = ["python", "C++", "java", "JavaScript"]
 print("hello, world")
 
 #Question 7
@@ -27,9 +23,9 @@ Name
 Age
 Course
 Student = {
-  "name":"Joseph",
-  "age":17,
-  "course":"Radiography"
+  "Name":"Joseph",
+  "Age":17,
+  "Course":"Radiography"
 }
 print(student)
 
